@@ -1,0 +1,319 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Api\\onlineHealthCare.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Api\\onlineHealthCare.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Api\\onlineHealthCare.Api.csproj",
+        "projectName": "onlineHealthCare.Api",
+        "projectPath": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Api\\onlineHealthCare.Api.csproj",
+        "packagesPath": "C:\\Users\\ecs\\.nuget\\packages\\",
+        "outputPath": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ecs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\onlineHealthCare.Application.csproj": {
+                "projectPath": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\onlineHealthCare.Application.csproj"
+              },
+              "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Database\\onlineHealthCare.Database.csproj": {
+                "projectPath": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Database\\onlineHealthCare.Database.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\onlineHealthCare.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\onlineHealthCare.Application.csproj",
+        "projectName": "onlineHealthCare.Application",
+        "projectPath": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\onlineHealthCare.Application.csproj",
+        "packagesPath": "C:\\Users\\ecs\\.nuget\\packages\\",
+        "outputPath": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ecs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Database\\onlineHealthCare.Database.csproj": {
+                "projectPath": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Database\\onlineHealthCare.Database.csproj"
+              },
+              "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj": {
+                "projectPath": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Database\\onlineHealthCare.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Database\\onlineHealthCare.Database.csproj",
+        "projectName": "onlineHealthCare.Database",
+        "projectPath": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Database\\onlineHealthCare.Database.csproj",
+        "packagesPath": "C:\\Users\\ecs\\.nuget\\packages\\",
+        "outputPath": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ecs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj": {
+                "projectPath": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.10, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj",
+        "projectName": "onlineHealthCare.Domain",
+        "projectPath": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj",
+        "packagesPath": "C:\\Users\\ecs\\.nuget\\packages\\",
+        "outputPath": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ecs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.1.39, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
