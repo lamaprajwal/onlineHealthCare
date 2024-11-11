@@ -1,0 +1,17 @@
+D:\pratice\onlineHealthCare.Api\onlineHealthCare.Database\bin\Debug\net8.0\onlineHealthCare.Database.deps.json
+D:\pratice\onlineHealthCare.Api\onlineHealthCare.Database\bin\Debug\net8.0\onlineHealthCare.Database.runtimeconfig.json
+D:\pratice\onlineHealthCare.Api\onlineHealthCare.Database\bin\Debug\net8.0\onlineHealthCare.Database.dll
+D:\pratice\onlineHealthCare.Api\onlineHealthCare.Database\bin\Debug\net8.0\onlineHealthCare.Database.pdb
+D:\pratice\onlineHealthCare.Api\onlineHealthCare.Database\bin\Debug\net8.0\onlineHealthCare.Domain.dll
+D:\pratice\onlineHealthCare.Api\onlineHealthCare.Database\bin\Debug\net8.0\onlineHealthCare.Domain.pdb
+D:\pratice\onlineHealthCare.Api\onlineHealthCare.Database\obj\Debug\net8.0\onlineHealthCare.Database.csproj.AssemblyReference.cache
+D:\pratice\onlineHealthCare.Api\onlineHealthCare.Database\obj\Debug\net8.0\onlineHealthCare.Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\pratice\onlineHealthCare.Api\onlineHealthCare.Database\obj\Debug\net8.0\onlineHealthCare.Database.AssemblyInfoInputs.cache
+D:\pratice\onlineHealthCare.Api\onlineHealthCare.Database\obj\Debug\net8.0\onlineHealthCare.Database.AssemblyInfo.cs
+D:\pratice\onlineHealthCare.Api\onlineHealthCare.Database\obj\Debug\net8.0\onlineHealthCare.Database.csproj.CoreCompileInputs.cache
+D:\pratice\onlineHealthCare.Api\onlineHealthCare.Database\obj\Debug\net8.0\onlineHe.43420395.Up2Date
+D:\pratice\onlineHealthCare.Api\onlineHealthCare.Database\obj\Debug\net8.0\onlineHealthCare.Database.dll
+D:\pratice\onlineHealthCare.Api\onlineHealthCare.Database\obj\Debug\net8.0\refint\onlineHealthCare.Database.dll
+D:\pratice\onlineHealthCare.Api\onlineHealthCare.Database\obj\Debug\net8.0\onlineHealthCare.Database.pdb
+D:\pratice\onlineHealthCare.Api\onlineHealthCare.Database\obj\Debug\net8.0\onlineHealthCare.Database.genruntimeconfig.cache
+D:\pratice\onlineHealthCare.Api\onlineHealthCare.Database\obj\Debug\net8.0\ref\onlineHealthCare.Database.dll
