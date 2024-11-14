@@ -28,14 +28,7 @@ namespace onlineHealthCare.Domain.Models
             [Required]
             public DateTime AppointmentDateTime { get; set; }
 
-             [Required]
-             public TimeSpan TimeStart { get; set; }
-
-               [Required]
-               public TimeSpan TimeEnd { get; set; }
-
-
-        [Required]
+            [Required]
             [MaxLength(20)]
             public string Status { get; set; } // e.g., Available, scheduled, canceled, completed
 

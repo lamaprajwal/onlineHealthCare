@@ -3,24 +3,63 @@
   "WorkspaceRootPath": "D:\\pratice\\onlineHealthCare.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.application\\dtos\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|solutionrelative:onlinehealthcare.application\\dtos\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28C4F164-02A6-4923-BB1D-EED72A7978C0}|onlineHealthCare.Api\\onlineHealthCare.Api.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.api\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C4F164-02A6-4923-BB1D-EED72A7978C0}|onlineHealthCare.Api\\onlineHealthCare.Api.csproj|solutionrelative:onlinehealthcare.api\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.application\\repositories\\doctorservics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|solutionrelative:onlinehealthcare.application\\repositories\\doctorservics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.application\\onlinehealthcare.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|solutionrelative:onlinehealthcare.application\\onlinehealthcare.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28C4F164-02A6-4923-BB1D-EED72A7978C0}|onlineHealthCare.Api\\onlineHealthCare.Api.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28C4F164-02A6-4923-BB1D-EED72A7978C0}|onlineHealthCare.Api\\onlineHealthCare.Api.csproj|solutionrelative:onlinehealthcare.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.application\\repositories\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|solutionrelative:onlinehealthcare.application\\repositories\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28C4F164-02A6-4923-BB1D-EED72A7978C0}|onlineHealthCare.Api\\onlineHealthCare.Api.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C4F164-02A6-4923-BB1D-EED72A7978C0}|onlineHealthCare.Api\\onlineHealthCare.Api.csproj|solutionrelative:onlinehealthcare.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.application\\dtos\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|solutionrelative:onlinehealthcare.application\\dtos\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.application\\dtos\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|solutionrelative:onlinehealthcare.application\\dtos\\authmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F299C0B-F8EF-4DBC-9E1A-A8F43352E29E}|onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.domain\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F299C0B-F8EF-4DBC-9E1A-A8F43352E29E}|onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj|solutionrelative:onlinehealthcare.domain\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.application\\repositories\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|solutionrelative:onlinehealthcare.application\\repositories\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.application\\repositories\\doctorservics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|solutionrelative:onlinehealthcare.application\\repositories\\doctorservics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28C4F164-02A6-4923-BB1D-EED72A7978C0}|onlineHealthCare.Api\\onlineHealthCare.Api.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.api\\onlinehealthcare.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28C4F164-02A6-4923-BB1D-EED72A7978C0}|onlineHealthCare.Api\\onlineHealthCare.Api.csproj|solutionrelative:onlinehealthcare.api\\onlinehealthcare.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.application\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|solutionrelative:onlinehealthcare.application\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.application\\dtos\\tokenrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|solutionrelative:onlinehealthcare.application\\dtos\\tokenrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\pratice\\FormulaOne.Api\\FormulaOne.Api\\Commands\\DeleteDriverinfoRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F299C0B-F8EF-4DBC-9E1A-A8F43352E29E}|onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.domain\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F299C0B-F8EF-4DBC-9E1A-A8F43352E29E}|onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj|solutionrelative:onlinehealthcare.domain\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6CA2A4-278B-473F-A569-8D3C7A5C0E1D}|onlineHealthCare.Database\\onlineHealthCare.Database.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.database\\onlinehealthcaredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6CA2A4-278B-473F-A569-8D3C7A5C0E1D}|onlineHealthCare.Database\\onlineHealthCare.Database.csproj|solutionrelative:onlinehealthcare.database\\onlinehealthcaredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.application\\repositories\\basereposervice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,64 +70,16 @@
       "RelativeMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|solutionrelative:onlinehealthcare.application\\repositories\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{28C4F164-02A6-4923-BB1D-EED72A7978C0}|onlineHealthCare.Api\\onlineHealthCare.Api.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28C4F164-02A6-4923-BB1D-EED72A7978C0}|onlineHealthCare.Api\\onlineHealthCare.Api.csproj|solutionrelative:onlinehealthcare.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.application\\repositories\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|solutionrelative:onlinehealthcare.application\\repositories\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.application\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|solutionrelative:onlinehealthcare.application\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.application\\repositories\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|solutionrelative:onlinehealthcare.application\\repositories\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.application\\serviceregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|solutionrelative:onlinehealthcare.application\\serviceregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28C4F164-02A6-4923-BB1D-EED72A7978C0}|onlineHealthCare.Api\\onlineHealthCare.Api.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.api\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28C4F164-02A6-4923-BB1D-EED72A7978C0}|onlineHealthCare.Api\\onlineHealthCare.Api.csproj|solutionrelative:onlinehealthcare.api\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.application\\repositories\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|solutionrelative:onlinehealthcare.application\\repositories\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F299C0B-F8EF-4DBC-9E1A-A8F43352E29E}|onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.domain\\onlinehealthcare.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9F299C0B-F8EF-4DBC-9E1A-A8F43352E29E}|onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj|solutionrelative:onlinehealthcare.domain\\onlinehealthcare.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.application\\onlinehealthcare.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|solutionrelative:onlinehealthcare.application\\onlinehealthcare.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF6CA2A4-278B-473F-A569-8D3C7A5C0E1D}|onlineHealthCare.Database\\onlineHealthCare.Database.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.database\\onlinehealthcaredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF6CA2A4-278B-473F-A569-8D3C7A5C0E1D}|onlineHealthCare.Database\\onlineHealthCare.Database.csproj|solutionrelative:onlinehealthcare.database\\onlinehealthcaredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28C4F164-02A6-4923-BB1D-EED72A7978C0}|onlineHealthCare.Api\\onlineHealthCare.Api.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{28C4F164-02A6-4923-BB1D-EED72A7978C0}|onlineHealthCare.Api\\onlineHealthCare.Api.csproj|solutionrelative:onlinehealthcare.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28C4F164-02A6-4923-BB1D-EED72A7978C0}|onlineHealthCare.Api\\onlineHealthCare.Api.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.api\\onlinehealthcare.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{28C4F164-02A6-4923-BB1D-EED72A7978C0}|onlineHealthCare.Api\\onlineHealthCare.Api.csproj|solutionrelative:onlinehealthcare.api\\onlinehealthcare.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.application\\repositories\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|solutionrelative:onlinehealthcare.application\\repositories\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F299C0B-F8EF-4DBC-9E1A-A8F43352E29E}|onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.domain\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F299C0B-F8EF-4DBC-9E1A-A8F43352E29E}|onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj|solutionrelative:onlinehealthcare.domain\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F299C0B-F8EF-4DBC-9E1A-A8F43352E29E}|onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.domain\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F299C0B-F8EF-4DBC-9E1A-A8F43352E29E}|onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj|solutionrelative:onlinehealthcare.domain\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F299C0B-F8EF-4DBC-9E1A-A8F43352E29E}|onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.domain\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F299C0B-F8EF-4DBC-9E1A-A8F43352E29E}|onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj|solutionrelative:onlinehealthcare.domain\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF6CA2A4-278B-473F-A569-8D3C7A5C0E1D}|onlineHealthCare.Database\\onlineHealthCare.Database.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.database\\migrations\\20241109132104_jk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6CA2A4-278B-473F-A569-8D3C7A5C0E1D}|onlineHealthCare.Database\\onlineHealthCare.Database.csproj|solutionrelative:onlinehealthcare.database\\migrations\\20241109132104_jk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF6CA2A4-278B-473F-A569-8D3C7A5C0E1D}|onlineHealthCare.Database\\onlineHealthCare.Database.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.database\\onlinehealthcare.database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -99,30 +90,27 @@
       "RelativeMoniker": "D:0:0:{9F299C0B-F8EF-4DBC-9E1A-A8F43352E29E}|onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj|solutionrelative:onlinehealthcare.domain\\models\\healthtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF6CA2A4-278B-473F-A569-8D3C7A5C0E1D}|onlineHealthCare.Database\\onlineHealthCare.Database.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.database\\migrations\\20241107051807_init7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF6CA2A4-278B-473F-A569-8D3C7A5C0E1D}|onlineHealthCare.Database\\onlineHealthCare.Database.csproj|solutionrelative:onlinehealthcare.database\\migrations\\20241107051807_init7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.application\\dtos\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|solutionrelative:onlinehealthcare.application\\dtos\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.application\\dtos\\tokenrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|solutionrelative:onlinehealthcare.application\\dtos\\tokenrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\pratice\\FormulaOne.Api\\FormulaOne.Api\\Commands\\DeleteDriverinfoRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF6CA2A4-278B-473F-A569-8D3C7A5C0E1D}|onlineHealthCare.Database\\onlineHealthCare.Database.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.database\\migrations\\20241109132104_jk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF6CA2A4-278B-473F-A569-8D3C7A5C0E1D}|onlineHealthCare.Database\\onlineHealthCare.Database.csproj|solutionrelative:onlinehealthcare.database\\migrations\\20241109132104_jk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9F299C0B-F8EF-4DBC-9E1A-A8F43352E29E}|onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.domain\\models\\medicalhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F299C0B-F8EF-4DBC-9E1A-A8F43352E29E}|onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj|solutionrelative:onlinehealthcare.domain\\models\\medicalhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F299C0B-F8EF-4DBC-9E1A-A8F43352E29E}|onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.domain\\onlinehealthcare.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F299C0B-F8EF-4DBC-9E1A-A8F43352E29E}|onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj|solutionrelative:onlinehealthcare.domain\\onlinehealthcare.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C4F164-02A6-4923-BB1D-EED72A7978C0}|onlineHealthCare.Api\\onlineHealthCare.Api.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{28C4F164-02A6-4923-BB1D-EED72A7978C0}|onlineHealthCare.Api\\onlineHealthCare.Api.csproj|solutionrelative:onlinehealthcare.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.application\\repositories\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|solutionrelative:onlinehealthcare.application\\repositories\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.application\\repositories\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|solutionrelative:onlinehealthcare.application\\repositories\\iloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/OnlineHealthCareDb/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
@@ -135,12 +123,20 @@
       "RelativeMoniker": "D:0:0:{9F299C0B-F8EF-4DBC-9E1A-A8F43352E29E}|onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj|solutionrelative:onlinehealthcare.domain\\enums\\sex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.application\\serviceregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|solutionrelative:onlinehealthcare.application\\serviceregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.application\\dtos\\doctorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|solutionrelative:onlinehealthcare.application\\dtos\\doctorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.application\\dtos\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|solutionrelative:onlinehealthcare.application\\dtos\\doctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|d:\\pratice\\onlinehealthcare.api\\onlinehealthcare.application\\repositories\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD09F8B-72E3-46EA-B427-96433CB1C7D1}|onlineHealthCare.Application\\onlineHealthCare.Application.csproj|solutionrelative:onlinehealthcare.application\\repositories\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -150,7 +146,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -158,214 +154,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IPatientService.cs",
-              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\IPatientService.cs",
-              "RelativeDocumentMoniker": "onlineHealthCare.Application\\Repositories\\IPatientService.cs",
-              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\IPatientService.cs",
-              "RelativeToolTip": "onlineHealthCare.Application\\Repositories\\IPatientService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T07:54:45.807Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DoctorServics.cs",
-              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\DoctorServics.cs",
-              "RelativeDocumentMoniker": "onlineHealthCare.Application\\Repositories\\DoctorServics.cs",
-              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\DoctorServics.cs",
-              "RelativeToolTip": "onlineHealthCare.Application\\Repositories\\DoctorServics.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T14:04:50.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PatientService.cs",
-              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\PatientService.cs",
-              "RelativeDocumentMoniker": "onlineHealthCare.Application\\Repositories\\PatientService.cs",
-              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\PatientService.cs",
-              "RelativeToolTip": "onlineHealthCare.Application\\Repositories\\PatientService.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAewD4AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T07:56:27.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Api\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "onlineHealthCare.Api\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Api\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "onlineHealthCare.Api\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T08:27:04.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ServiceRegister.cs",
-              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\ServiceRegister.cs",
-              "RelativeDocumentMoniker": "onlineHealthCare.Application\\ServiceRegister.cs",
-              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\ServiceRegister.cs",
-              "RelativeToolTip": "onlineHealthCare.Application\\ServiceRegister.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T10:25:07.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IDoctorService.cs",
-              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\IDoctorService.cs",
-              "RelativeDocumentMoniker": "onlineHealthCare.Application\\Repositories\\IDoctorService.cs",
-              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\IDoctorService.cs",
-              "RelativeToolTip": "onlineHealthCare.Application\\Repositories\\IDoctorService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T13:59:29.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\IRepository.cs",
-              "RelativeDocumentMoniker": "onlineHealthCare.Application\\Repositories\\IRepository.cs",
-              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\IRepository.cs",
-              "RelativeToolTip": "onlineHealthCare.Application\\Repositories\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T06:44:58.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\IUserService.cs",
-              "RelativeDocumentMoniker": "onlineHealthCare.Application\\Repositories\\IUserService.cs",
-              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\IUserService.cs",
-              "RelativeToolTip": "onlineHealthCare.Application\\Repositories\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T07:45:21.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginService.cs",
-              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\LoginService.cs",
-              "RelativeDocumentMoniker": "onlineHealthCare.Application\\Repositories\\LoginService.cs",
-              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\LoginService.cs",
-              "RelativeToolTip": "onlineHealthCare.Application\\Repositories\\LoginService.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAA+wBwAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T14:09:19.95Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AuthModel.cs",
-              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Dtos\\AuthModel.cs",
-              "RelativeDocumentMoniker": "onlineHealthCare.Application\\Dtos\\AuthModel.cs",
-              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Dtos\\AuthModel.cs",
-              "RelativeToolTip": "onlineHealthCare.Application\\Dtos\\AuthModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T07:49:53.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BaseRepoService.cs",
-              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\BaseRepoService.cs",
-              "RelativeDocumentMoniker": "onlineHealthCare.Application\\Repositories\\BaseRepoService.cs",
-              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\BaseRepoService.cs",
-              "RelativeToolTip": "onlineHealthCare.Application\\Repositories\\BaseRepoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T06:59:06.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Api\\Program.cs",
-              "RelativeDocumentMoniker": "onlineHealthCare.Api\\Program.cs",
-              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Api\\Program.cs",
-              "RelativeToolTip": "onlineHealthCare.Api\\Program.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAowDcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T04:52:52.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "DoctorController.cs",
               "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Api\\Controllers\\DoctorController.cs",
               "RelativeDocumentMoniker": "onlineHealthCare.Api\\Controllers\\DoctorController.cs",
               "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Api\\Controllers\\DoctorController.cs",
               "RelativeToolTip": "onlineHealthCare.Api\\Controllers\\DoctorController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAACsAAAA1AAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACsAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-09T23:21:42.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ILoginService.cs",
-              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\ILoginService.cs",
-              "RelativeDocumentMoniker": "onlineHealthCare.Application\\Repositories\\ILoginService.cs",
-              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\ILoginService.cs",
-              "RelativeToolTip": "onlineHealthCare.Application\\Repositories\\ILoginService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T14:08:44.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Doctor.cs",
-              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\Models\\Doctor.cs",
-              "RelativeDocumentMoniker": "onlineHealthCare.Domain\\Models\\Doctor.cs",
-              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\Models\\Doctor.cs",
-              "RelativeToolTip": "onlineHealthCare.Domain\\Models\\Doctor.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAACAAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T13:25:25.34Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "onlineHealthCare.Domain.csproj",
-              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj",
-              "RelativeDocumentMoniker": "onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj",
-              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj",
-              "RelativeToolTip": "onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-29T04:54:11.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 2,
               "Title": "onlineHealthCare.Application.csproj",
               "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\onlineHealthCare.Application.csproj",
               "RelativeDocumentMoniker": "onlineHealthCare.Application\\onlineHealthCare.Application.csproj",
@@ -373,122 +175,60 @@
               "RelativeToolTip": "onlineHealthCare.Application\\onlineHealthCare.Application.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-29T05:21:49.401Z",
+              "WhenOpened": "2024-10-29T05:21:49.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Api\\Program.cs",
+              "RelativeDocumentMoniker": "onlineHealthCare.Api\\Program.cs",
+              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Api\\Program.cs",
+              "RelativeToolTip": "onlineHealthCare.Api\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:52:52.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoctorServics.cs",
+              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\DoctorServics.cs",
+              "RelativeDocumentMoniker": "onlineHealthCare.Application\\Repositories\\DoctorServics.cs",
+              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\DoctorServics.cs",
+              "RelativeToolTip": "onlineHealthCare.Application\\Repositories\\DoctorServics.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAIYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:04:50.064Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "onlineHealthCareDbContext.cs",
-              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Database\\onlineHealthCareDbContext.cs",
-              "RelativeDocumentMoniker": "onlineHealthCare.Database\\onlineHealthCareDbContext.cs",
-              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Database\\onlineHealthCareDbContext.cs",
-              "RelativeToolTip": "onlineHealthCare.Database\\onlineHealthCareDbContext.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAmwBgAAAAAAAAA",
+              "DocumentIndex": 31,
+              "Title": "ServiceRegister.cs",
+              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\ServiceRegister.cs",
+              "RelativeDocumentMoniker": "onlineHealthCare.Application\\ServiceRegister.cs",
+              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\ServiceRegister.cs",
+              "RelativeToolTip": "onlineHealthCare.Application\\ServiceRegister.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T10:36:31Z"
+              "WhenOpened": "2024-11-10T10:25:07.438Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "onlineHealthCare.Api\\appsettings.json",
-              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Api\\appsettings.json",
-              "RelativeToolTip": "onlineHealthCare.Api\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-29T12:41:22.625Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "onlineHealthCare.Api.csproj",
-              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Api\\onlineHealthCare.Api.csproj",
-              "RelativeDocumentMoniker": "onlineHealthCare.Api\\onlineHealthCare.Api.csproj",
-              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Api\\onlineHealthCare.Api.csproj",
-              "RelativeToolTip": "onlineHealthCare.Api\\onlineHealthCare.Api.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-29T09:32:46.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "onlineHealthCare.Domain\\Models\\ApplicationUser.cs",
-              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "onlineHealthCare.Domain\\Models\\ApplicationUser.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAB0AAAA/AAAA",
+              "DocumentIndex": 6,
+              "Title": "AuthModel.cs",
+              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Dtos\\AuthModel.cs",
+              "RelativeDocumentMoniker": "onlineHealthCare.Application\\Dtos\\AuthModel.cs",
+              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Dtos\\AuthModel.cs",
+              "RelativeToolTip": "onlineHealthCare.Application\\Dtos\\AuthModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T04:56:13.469Z"
+              "WhenOpened": "2024-11-05T07:49:53.33Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Appointment.cs",
-              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\Models\\Appointment.cs",
-              "RelativeDocumentMoniker": "onlineHealthCare.Domain\\Models\\Appointment.cs",
-              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\Models\\Appointment.cs",
-              "RelativeToolTip": "onlineHealthCare.Domain\\Models\\Appointment.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAACUAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T05:31:20.998Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "onlineHealthCare.Database.csproj",
-              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Database\\onlineHealthCare.Database.csproj",
-              "RelativeDocumentMoniker": "onlineHealthCare.Database\\onlineHealthCare.Database.csproj",
-              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Database\\onlineHealthCare.Database.csproj",
-              "RelativeToolTip": "onlineHealthCare.Database\\onlineHealthCare.Database.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-29T10:22:37.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "HealthTest.cs",
-              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\Models\\HealthTest.cs",
-              "RelativeDocumentMoniker": "onlineHealthCare.Domain\\Models\\HealthTest.cs",
-              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\Models\\HealthTest.cs",
-              "RelativeToolTip": "onlineHealthCare.Domain\\Models\\HealthTest.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T03:27:49.869Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "20241107051807_init7.cs",
-              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Database\\Migrations\\20241107051807_init7.cs",
-              "RelativeDocumentMoniker": "onlineHealthCare.Database\\Migrations\\20241107051807_init7.cs",
-              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Database\\Migrations\\20241107051807_init7.cs",
-              "RelativeToolTip": "onlineHealthCare.Database\\Migrations\\20241107051807_init7.cs",
-              "ViewState": "AQIAAG0BAAAAAAAAAAAAAAoBAABWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T15:27:31.494Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "DoctorResponse.cs",
-              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Dtos\\DoctorResponse.cs",
-              "RelativeDocumentMoniker": "onlineHealthCare.Application\\Dtos\\DoctorResponse.cs",
-              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Dtos\\DoctorResponse.cs",
-              "RelativeToolTip": "onlineHealthCare.Application\\Dtos\\DoctorResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T09:59:58.741Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 5,
               "Title": "RegisterModel.cs",
               "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Dtos\\RegisterModel.cs",
               "RelativeDocumentMoniker": "onlineHealthCare.Application\\Dtos\\RegisterModel.cs",
@@ -500,7 +240,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 32,
+              "Title": "DoctorResponse.cs",
+              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Dtos\\DoctorResponse.cs",
+              "RelativeDocumentMoniker": "onlineHealthCare.Application\\Dtos\\DoctorResponse.cs",
+              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Dtos\\DoctorResponse.cs",
+              "RelativeToolTip": "onlineHealthCare.Application\\Dtos\\DoctorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T09:59:58.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Api\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "onlineHealthCare.Api\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Api\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "onlineHealthCare.Api\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:27:04.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "onlineHealthCare.Api.csproj",
+              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Api\\onlineHealthCare.Api.csproj",
+              "RelativeDocumentMoniker": "onlineHealthCare.Api\\onlineHealthCare.Api.csproj",
+              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Api\\onlineHealthCare.Api.csproj",
+              "RelativeToolTip": "onlineHealthCare.Api\\onlineHealthCare.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-29T09:32:46.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
               "Title": "DoctorDto.cs",
               "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Dtos\\DoctorDto.cs",
               "RelativeDocumentMoniker": "onlineHealthCare.Application\\Dtos\\DoctorDto.cs",
@@ -512,7 +289,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "onlineHealthCare.Application\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "onlineHealthCare.Application\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T06:44:58.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "onlineHealthCare.Application\\Repositories\\IDoctorService.cs",
+              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\IDoctorService.cs",
+              "RelativeToolTip": "onlineHealthCare.Application\\Repositories\\IDoctorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T13:59:29.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "onlineHealthCare.Domain\\Models\\Doctor.cs",
+              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\Models\\Doctor.cs",
+              "RelativeToolTip": "onlineHealthCare.Domain\\Models\\Doctor.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T13:25:25.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "TokenRequestModel.cs",
               "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Dtos\\TokenRequestModel.cs",
               "RelativeDocumentMoniker": "onlineHealthCare.Application\\Dtos\\TokenRequestModel.cs",
@@ -524,7 +337,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 8,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\IPatientService.cs",
+              "RelativeDocumentMoniker": "onlineHealthCare.Application\\Repositories\\IPatientService.cs",
+              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\IPatientService.cs",
+              "RelativeToolTip": "onlineHealthCare.Application\\Repositories\\IPatientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:54:45.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "onlineHealthCare.Domain\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "onlineHealthCare.Domain\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAB0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:56:13.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "DeleteDriverinfoRequest.cs",
               "DocumentMoniker": "D:\\pratice\\FormulaOne.Api\\FormulaOne.Api\\Commands\\DeleteDriverinfoRequest.cs",
               "RelativeDocumentMoniker": "..\\FormulaOne.Api\\FormulaOne.Api\\Commands\\DeleteDriverinfoRequest.cs",
@@ -536,7 +373,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 14,
+              "Title": "onlineHealthCareDbContext.cs",
+              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Database\\onlineHealthCareDbContext.cs",
+              "RelativeDocumentMoniker": "onlineHealthCare.Database\\onlineHealthCareDbContext.cs",
+              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Database\\onlineHealthCareDbContext.cs",
+              "RelativeToolTip": "onlineHealthCare.Database\\onlineHealthCareDbContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwBcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:36:31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\PatientService.cs",
+              "RelativeDocumentMoniker": "onlineHealthCare.Application\\Repositories\\PatientService.cs",
+              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\PatientService.cs",
+              "RelativeToolTip": "onlineHealthCare.Application\\Repositories\\PatientService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAewDcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:56:27.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseRepoService.cs",
+              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\BaseRepoService.cs",
+              "RelativeDocumentMoniker": "onlineHealthCare.Application\\Repositories\\BaseRepoService.cs",
+              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\BaseRepoService.cs",
+              "RelativeToolTip": "onlineHealthCare.Application\\Repositories\\BaseRepoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T06:59:06.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "onlineHealthCare.Domain\\Models\\Appointment.cs",
+              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\Models\\Appointment.cs",
+              "RelativeToolTip": "onlineHealthCare.Domain\\Models\\Appointment.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T05:31:20.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "20241109132104_jk.cs",
               "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Database\\Migrations\\20241109132104_jk.cs",
               "RelativeDocumentMoniker": "onlineHealthCare.Database\\Migrations\\20241109132104_jk.cs",
@@ -548,7 +434,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 16,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\LoginService.cs",
+              "RelativeDocumentMoniker": "onlineHealthCare.Application\\Repositories\\LoginService.cs",
+              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\LoginService.cs",
+              "RelativeToolTip": "onlineHealthCare.Application\\Repositories\\LoginService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwBwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:09:19.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HealthTest.cs",
+              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\Models\\HealthTest.cs",
+              "RelativeDocumentMoniker": "onlineHealthCare.Domain\\Models\\HealthTest.cs",
+              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\Models\\HealthTest.cs",
+              "RelativeToolTip": "onlineHealthCare.Domain\\Models\\HealthTest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T03:27:49.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "onlineHealthCare.Database.csproj",
+              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Database\\onlineHealthCare.Database.csproj",
+              "RelativeDocumentMoniker": "onlineHealthCare.Database\\onlineHealthCare.Database.csproj",
+              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Database\\onlineHealthCare.Database.csproj",
+              "RelativeToolTip": "onlineHealthCare.Database\\onlineHealthCare.Database.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-29T10:22:37.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "MedicalHistory.cs",
               "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\Models\\MedicalHistory.cs",
               "RelativeDocumentMoniker": "onlineHealthCare.Domain\\Models\\MedicalHistory.cs",
@@ -560,7 +482,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 24,
+              "Title": "onlineHealthCare.Domain.csproj",
+              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj",
+              "RelativeDocumentMoniker": "onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj",
+              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj",
+              "RelativeToolTip": "onlineHealthCare.Domain\\onlineHealthCare.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-29T04:54:11.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "Microsoft.NET.Sdk.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
@@ -570,7 +504,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 26,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\IUserService.cs",
+              "RelativeDocumentMoniker": "onlineHealthCare.Application\\Repositories\\IUserService.cs",
+              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\IUserService.cs",
+              "RelativeToolTip": "onlineHealthCare.Application\\Repositories\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T07:45:21.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "onlineHealthCare.Api\\appsettings.json",
+              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Api\\appsettings.json",
+              "RelativeToolTip": "onlineHealthCare.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-29T12:41:22.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ILoginService.cs",
+              "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\ILoginService.cs",
+              "RelativeDocumentMoniker": "onlineHealthCare.Application\\Repositories\\ILoginService.cs",
+              "ToolTip": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Application\\Repositories\\ILoginService.cs",
+              "RelativeToolTip": "onlineHealthCare.Application\\Repositories\\ILoginService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:08:44.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "dbo.AspNetUsers [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/OnlineHealthCareDb/True/SqlTable/dbo.AspNetUsers.sql",
               "ToolTip": "dbo.AspNetUsers [Data]",
@@ -579,7 +549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 29,
               "Title": "dbo.AspNetRoles [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/OnlineHealthCareDb/True/SqlTable/dbo.AspNetRoles.sql",
               "ToolTip": "dbo.AspNetRoles [Data]",
@@ -588,7 +558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 30,
               "Title": "Sex.cs",
               "DocumentMoniker": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Domain\\Enums\\Sex.cs",
               "RelativeDocumentMoniker": "onlineHealthCare.Domain\\Enums\\Sex.cs",

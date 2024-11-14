@@ -254,12 +254,6 @@ namespace onlineHealthCare.Database.Migrations
                         .HasMaxLength(20)
                         .HasColumnType("varchar(20)");
 
-                    b.Property<TimeSpan>("TimeEnd")
-                        .HasColumnType("time(6)");
-
-                    b.Property<TimeSpan>("TimeStart")
-                        .HasColumnType("time(6)");
-
                     b.HasKey("AppointmentID");
 
                     b.HasIndex("DoctorId");
