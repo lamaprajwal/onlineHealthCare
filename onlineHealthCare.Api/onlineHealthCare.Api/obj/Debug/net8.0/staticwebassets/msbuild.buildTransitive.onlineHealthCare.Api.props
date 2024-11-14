@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\onlineHealthCare.Api.props" />
+</Project>

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Api\\wwwroot\\Doctor\\images\\Rahul\\doctor_10-11-2024-06-33-17.jpg",
+      "PackagePath": "staticwebassets\\Doctor\\images\\Rahul\\doctor_10-11-2024-06-33-17.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.onlineHealthCare.Api.props",
+      "PackagePath": "build\\onlineHealthCare.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.onlineHealthCare.Api.props",
+      "PackagePath": "buildMultiTargeting\\onlineHealthCare.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.onlineHealthCare.Api.props",
+      "PackagePath": "buildTransitive\\onlineHealthCare.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.onlineHealthCare.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
