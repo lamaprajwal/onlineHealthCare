@@ -1,7 +1,9 @@
 ﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using onlineHealthCare.Application.Dtos;
+using onlineHealthCare.Database;
 using onlineHealthCare.Domain.Models;
 using System;
 using System.Collections.Generic;
@@ -16,27 +18,32 @@ namespace onlineHealthCare.Application.Repositories
 {
     public class PatientService : IPatientService
     {
+
+        public onlineHealthCareDbContext Context { get; set; }
+       
         private readonly UserManager<ApplicationUser> _userManager;
         private readonly IConfiguration _IConfiguration;
-        public PatientService(UserManager<ApplicationUser> userManager, IConfiguration IConfiguration)
+        public PatientService(UserManager<ApplicationUser> userManager, IConfiguration IConfiguration, onlineHealthCareDbContext context)
         {
             _IConfiguration = IConfiguration;
-            _userManager = userManager; 
+            _userManager = userManager;
+            Context = context;
         }
         public async Task<AuthModel> Register(RegisterModel Data)
         {
-            using TransactionScope transaction = new(TransactionScopeAsyncFlowOption.Enabled);
+            using var transaction = await Context.Database.BeginTransactionAsync();
             try
             {
-                TransactionManager.ImplicitDistributedTransactions = true;
-                TransactionInterop.GetTransmitterPropagationToken(Transaction.Current);
+                
+                //TransactionManager.ImplicitDistributedTransactions = true;
+                //TransactionInterop.GetTransmitterPropagationToken(Transaction.Current);
                 var res = await RegisterAsync(Data);
                 if (res.Message != null)
                 {
                     throw new Exception(res.Message);
                 }
                 
-                transaction.Complete();
+                transaction.Dispose();
                 return new AuthModel
                 {
                     //Username = res.Username,
@@ -50,7 +57,7 @@ namespace onlineHealthCare.Application.Repositories
             }
             catch (Exception ex)
             {
-                transaction.Dispose();
+                transaction.RollbackAsync();
                 return new AuthModel { Message = ex.Message };
             }
         }
