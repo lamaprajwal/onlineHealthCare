@@ -31,7 +31,7 @@ namespace onlineHealthCare.Application.Repositories
         }
         public async Task<AuthModel> Register(RegisterModel Data)
         {
-            using var transaction = await Context.Database.BeginTransactionAsync();
+            
             try
             {
                 
@@ -43,7 +43,7 @@ namespace onlineHealthCare.Application.Repositories
                     throw new Exception(res.Message);
                 }
                 
-                transaction.Dispose();
+              
                 return new AuthModel
                 {
                     //Username = res.Username,
@@ -57,7 +57,7 @@ namespace onlineHealthCare.Application.Repositories
             }
             catch (Exception ex)
             {
-                transaction.RollbackAsync();
+               
                 return new AuthModel { Message = ex.Message };
             }
         }
