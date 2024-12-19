@@ -126,7 +126,7 @@ namespace onlineHealthCare.Application.Repositories
      new Claim(JwtRegisteredClaimNames.Sub, user.Name),
      new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
      new Claim(JwtRegisteredClaimNames.Email, user.Email),
-     new Claim("uid", user.Id)
+     new Claim(JwtRegisteredClaimNames.Sub, user.Id) // User ID
  }
             .Union(userClaims)
             .Union(roleClaims);

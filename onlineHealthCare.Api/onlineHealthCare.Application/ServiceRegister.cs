@@ -15,6 +15,7 @@ namespace onlineHealthCare.Application
             @this.AddTransient<IDoctorService, DoctorServics>();
             @this.AddTransient<ILoginService, LoginService>();
             @this.AddTransient<IPatientService, PatientService>();
+            @this.AddTransient<IAppoinmentService, AppointmentService>();
             return @this;
         }
 

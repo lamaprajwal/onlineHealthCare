@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "onlineHealthCare.Api.Controllers.AppointmentController",
+    "Method": "BookDoctor",
+    "RelativePath": "api/Appointment/BookDoctor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "onlineHealthCare.Application.Dtos.PatientAppointmentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "onlineHealthCare.Api.Controllers.AppointmentController",
+    "Method": "CreateAppointment",
+    "RelativePath": "api/Appointment/CreateAppointmentforDoctors",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "appointmentDTO",
+        "Type": "onlineHealthCare.Application.Dtos.AppointmentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "onlineHealthCare.Api.Controllers.AuthenticationController",
     "Method": "Login",
     "RelativePath": "api/Authentication/Login",

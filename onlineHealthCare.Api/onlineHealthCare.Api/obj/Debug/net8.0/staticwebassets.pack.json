@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Api\\wwwroot\\Doctor\\images\\Nanda\\doctor_19-11-2024-10-19-45.png",
+      "PackagePath": "staticwebassets\\Doctor\\images\\Nanda\\doctor_19-11-2024-10-19-45.png"
+    },
+    {
       "Id": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Api\\wwwroot\\Doctor\\images\\Rahul\\doctor_10-11-2024-06-33-17.jpg",
       "PackagePath": "staticwebassets\\Doctor\\images\\Rahul\\doctor_10-11-2024-06-33-17.jpg"
     },

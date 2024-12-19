@@ -34,6 +34,11 @@ namespace onlineHealthCare.Database
             .WithMany(u => u.Appointments)
             .HasForeignKey(a => a.PatientId);
 
+            modelBuilder.Entity<Appointment>()
+    .HasOne(a => a.Doctor)
+    .WithMany(d => d.Appointments)
+    .HasForeignKey(a => a.DoctorId);
+
             modelBuilder.Entity<IdentityRole>().HasData(
            new IdentityRole { Id = "1", Name = "Patient", NormalizedName = "PATIENT" }
        );

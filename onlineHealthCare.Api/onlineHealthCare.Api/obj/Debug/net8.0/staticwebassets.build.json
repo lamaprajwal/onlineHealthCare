@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "P4Iq8EdBsbRO74t0lz22NDxH/GcfDute+nYOSX152Qo=",
+  "Hash": "rsBKit2WPeM3VqahuzwN1XsvdPiz1ug+VusGZKfd9ms=",
   "Source": "onlineHealthCare.Api",
   "BasePath": "_content/onlineHealthCare.Api",
   "Mode": "Default",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Api\\wwwroot\\Doctor\\images\\Nanda\\doctor_19-11-2024-10-19-45.png",
+      "SourceId": "onlineHealthCare.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Api\\wwwroot\\",
+      "BasePath": "_content/onlineHealthCare.Api",
+      "RelativePath": "Doctor/images/Nanda/doctor_19-11-2024-10-19-45.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Doctor\\images\\Nanda\\doctor_19-11-2024-10-19-45.png"
+    },
     {
       "Identity": "D:\\pratice\\onlineHealthCare.Api\\onlineHealthCare.Api\\wwwroot\\Doctor\\images\\Rahul\\doctor_10-11-2024-06-33-17.jpg",
       "SourceId": "onlineHealthCare.Api",

@@ -8,17 +8,22 @@ using onlineHealthCare.Database;
 using onlineHealthCare.Domain.Models;
 using System;
 using System.Text;
+using System.Text.Json.Serialization;
+using System.Text.Json;
+using Microsoft.AspNetCore.Mvc;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddHttpContextAccessor();
 
 builder.Services.AddDbContextFactory<onlineHealthCareDbContext>(options =>
     options.UseMySQL(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddIdentity<ApplicationUser, IdentityRole>(options =>
 {
 
-}).AddEntityFrameworkStores<onlineHealthCareDbContext>();
+}).AddEntityFrameworkStores<onlineHealthCareDbContext>()
+.AddDefaultTokenProviders();
 
 builder.Services.AddCors((setup) =>
 {
@@ -44,8 +49,14 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJw
     };
 });
 
+
 builder.Services.AddAuthorization();
-builder.Services.AddControllers();
+builder.Services.AddControllers().AddJsonOptions(options =>
+{
+    // Configure JSON serializer settings, if necessary
+    options.JsonSerializerOptions.PropertyNamingPolicy = null; // Maintain PascalCase for DTO binding
+});
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -63,7 +74,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

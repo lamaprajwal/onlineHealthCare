@@ -26,21 +26,21 @@ namespace onlineHealthCare.Domain.Models
             public ApplicationUser? Patient { get; set; }
 
             [Required]
-            public DateTime AppointmentDateTime { get; set; }
+            public DateOnly AppointmentDateTime { get; set; }
 
              [Required]
-             public TimeSpan TimeStart { get; set; }
-
-               [Required]
-               public TimeSpan TimeEnd { get; set; }
-
-
-        [Required]
+             public TimeOnly TimeStart { get; set; }
+             public TimeOnly? TimeEnd { get; set; }
+            [Required]
             [MaxLength(20)]
             public string Status { get; set; } // e.g., Available, scheduled, canceled, completed
-
             [MaxLength(250)]
             public string? Notes { get; set; }
-       
     }
 }
+
+       
+
+              
+
+

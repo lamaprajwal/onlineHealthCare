@@ -235,8 +235,8 @@ namespace onlineHealthCare.Database.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    b.Property<DateTime>("AppointmentDateTime")
-                        .HasColumnType("datetime(6)");
+                    b.Property<DateOnly>("AppointmentDateTime")
+                        .HasColumnType("date");
 
                     b.Property<string>("DoctorId")
                         .IsRequired()
@@ -254,11 +254,11 @@ namespace onlineHealthCare.Database.Migrations
                         .HasMaxLength(20)
                         .HasColumnType("varchar(20)");
 
-                    b.Property<TimeSpan>("TimeEnd")
-                        .HasColumnType("time(6)");
+                    b.Property<TimeOnly?>("TimeEnd")
+                        .HasColumnType("time");
 
-                    b.Property<TimeSpan>("TimeStart")
-                        .HasColumnType("time(6)");
+                    b.Property<TimeOnly>("TimeStart")
+                        .HasColumnType("time");
 
                     b.HasKey("AppointmentID");
 

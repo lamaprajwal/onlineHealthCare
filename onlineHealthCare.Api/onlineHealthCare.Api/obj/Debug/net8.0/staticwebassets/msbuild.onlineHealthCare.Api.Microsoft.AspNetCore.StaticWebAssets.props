@@ -1,5 +1,21 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Doctor\images\Nanda\doctor_19-11-2024-10-19-45.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>onlineHealthCare.Api</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/onlineHealthCare.Api</BasePath>
+      <RelativePath>Doctor/images/Nanda/doctor_19-11-2024-10-19-45.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Doctor\images\Nanda\doctor_19-11-2024-10-19-45.png))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Doctor\images\Rahul\doctor_10-11-2024-06-33-17.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>onlineHealthCare.Api</SourceId>
